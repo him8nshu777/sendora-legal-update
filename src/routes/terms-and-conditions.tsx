@@ -120,7 +120,7 @@ function TermsPage() {
 
         {/* Terms content */}
         <section className="py-12 md:py-16">
-          <div className="container-page max-w-3xl px-4 [padding-inline:24px] md:[padding-inline:16px]">
+          <div className="container-page max-w-3xl">
             <h2 className="legal-h2 font-heading font-bold">Terms of Service for Sendora Chat</h2>
             <p className="mt-2 text-sm text-muted-foreground">Last updated: August 27, 2026</p>
 
@@ -190,7 +190,7 @@ function TermsPage() {
           aria-labelledby="data-deletion"
           className="border-t border-border bg-soft py-12 md:py-16"
         >
-          <div className="container-page max-w-3xl px-4 [padding-inline:24px] md:[padding-inline:16px]">
+          <div className="container-page max-w-3xl">
             <span className="inline-flex rounded-full bg-secondary px-3 py-1 text-xs font-bold uppercase tracking-[0.18em] text-primary">
               User Data Deletion
             </span>
